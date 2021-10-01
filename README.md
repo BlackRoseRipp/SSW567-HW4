@@ -8,6 +8,8 @@ When it comes to applications that pull data from places such as API's that are 
 
 The most challenging part of this assignment was the limited API calls as well as effectively using the documentation of the Github API.
 
+Additionally, my laptop had a particularly hard time installing and importing the Github API.
+
 ## Travis CI test results
 
 [![build status of master](https://travis-ci.org/BlackRoseRipp/SSW567-HW4.svg?branch=master)](https://travis-ci.org/BlackRoseRipp/SSW567-HW4)
