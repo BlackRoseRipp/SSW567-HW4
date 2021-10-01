@@ -1,6 +1,3 @@
-import sys
-sys.path.insert(0, r"C:\Users\Owner\AppData\Local\Programs\Python\Python38\Lib\site-packages")
-
 from github import Github
 
 username = "BlackRoseRipp"
