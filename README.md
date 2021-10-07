@@ -10,4 +10,4 @@ The most challenging part of this assignment was the limited API calls as well a
 
 ## Travis CI test results
 
-[![build status of master](https://travis-ci.org/BlackRoseRipp/SSW567-HW4.svg?branch=master)](https://travis-ci.org/BlackRoseRipp/SSW567-HW4)
+[![build status of HW05a_Mocking](https://travis-ci.org/BlackRoseRipp/SSW567-HW4.svg?branch=HW05a_Mocking)](https://travis-ci.org/BlackRoseRipp/SSW567-HW4)
