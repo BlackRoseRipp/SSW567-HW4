@@ -1,6 +1,4 @@
-from github import Github
 import requests
-import json
 
 def getGithubInfo(username):
     repos = requests.get('https://api.github.com/users/'+username+'/repos').json()
